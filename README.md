@@ -70,7 +70,7 @@ Built with neurons, caffeine, and curiosity
 by **[Calvin Paperwala](https://www.linkedin.com/in/calvin-paperwala-a9536765)**
 
 > This project was inspired by the paper:  
-> **Darlow, L., Regan, C., Risi, S., Seely, J., & Jones, L.** (2024).  
+> **Darlow, L., Regan, C., Risi, S., Seely, J., & Jones, L.** (2025).  
 > *[Continuous Thought Machines](https://doi.org/10.48550/arXiv.2505.05522)*  
 > arXiv:2505.05522
 
