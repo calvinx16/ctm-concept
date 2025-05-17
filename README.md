@@ -5,6 +5,10 @@ This repo visualizes the behaviour of biologically-inspired neurons that process
 
 ---
 
+[![Streamlit App](https://img.shields.io/badge/Launch%20App-CTM%20Visualizer-FF4B4B?logo=streamlit)](https://ctm-concept-4fp8qoqrb68ybwflpjhptn.streamlit.app/)
+
+---
+
 ## Project Goals
 
 - ✅ Simulate a CTM-style neuron with memory and temporal processing
